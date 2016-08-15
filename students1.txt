@@ -1,0 +1,11 @@
+name,father name,id,phone
+gauthami,pvs chandra sekhar,1,9849326334
+kavya,xyz,2,9999999999
+akhila,abc,3,9898989898
+alekhya,bcd,4,9090909090
+avinash,cde,5,9191919191
+seshu,def,6,9797979797
+ravi,efg,7,9292929292
+suresh,fgh,8,9393939393
+maikanth,ghi,9,9494949494
+vinod,hij,10,9595959595
